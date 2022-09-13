@@ -1,0 +1,139 @@
+creating stamp...
+f96246ae9f3a02f860aad56f6772d9c46e2f7aeb5872e2ef29cd0552159449af
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:25 /tmp/tmpuploadfile-1660980327
+{"reference":"69e731f4230abea1c6dcc53ec07aa40fac3e3b0d5acefaf769347b6f9cd17e50"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:25 /tmp/tmpuploadfile-1660980339
+{"reference":"bfb71a41fe56c0a65d89a8daa0b588c470912d8821361927bcda2e38fe467579"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:25 /tmp/tmpuploadfile-1660980353
+{"reference":"6fd881ddd6b6c853187b3dce5a21bd4dae9e1c837b663c4c6cb4f4e747c76ad1"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:26 /tmp/tmpuploadfile-1660980373
+{"reference":"bc89dfeb8bfc0da8265b9660e086db8badb77903703d601e75b94e6314321819"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:26 /tmp/tmpuploadfile-1660980399
+{"reference":"c3a7b81ffa563adf883672d313c459b722ccd06684f79198e07b84064224910d"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:27 /tmp/tmpuploadfile-1660980433
+{"message":"batch is overissued","code":402}
+7
+creating stamp...
+d1098aebb3d61649d77dd8314a885cb6c70696f55b10a09351595711b0e4e869
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:28 /tmp/tmpuploadfile-1660980539
+{"reference":"475f38661880ca5023d48a6d8d1c9d24f684c552eecc573f617cd29732f0c425"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:29 /tmp/tmpuploadfile-1660980594
+{"reference":"b61207c41f23f02354cb1dbdec984a1b53797437f3b6e368d7108fd7d3bfaabd"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:30 /tmp/tmpuploadfile-1660980649
+{"message":"batch is overissued","code":402}
+4
+creating stamp...
+0c11bd3e5d18164f6bf475ea101f631d5477db611400c7a8c455ee742e8f3cea
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:31 /tmp/tmpuploadfile-1660980718
+{"reference":"e7d79c09720d264ca6b3116fbe23ee5fc2dad2792ac2abe13eb3f40e82cb24bd"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:32 /tmp/tmpuploadfile-1660980749
+{"reference":"1446c7f8f627b6639bcb87a78fa32927d48b1df805188139b6ca8eb70c88e6ca"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:32 /tmp/tmpuploadfile-1660980779
+{"reference":"f69b61c7e3a80f99fb71a4cf7992945ba1a04be5595c181c1b1e304e2c315340"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:33 /tmp/tmpuploadfile-1660980816
+{"reference":"ad0d254282fbe46421a5619964ea87f883af4dc2fb6a66373f1cd2758d4d1686"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:34 /tmp/tmpuploadfile-1660980859
+{"message":"batch is overissued","code":402}
+6
+creating stamp...
+c66fdfffef0f0d4bc1ac90e3ce1c71656a6807538aaa18cf3fb22a8ffbc043a3
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:35 /tmp/tmpuploadfile-1660980929
+{"reference":"bd7d49f088367c77f3dc75632eb0cbe54768a678b909464f6a7a627290d3de04"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:36 /tmp/tmpuploadfile-1660980972
+{"reference":"19bb014e31b8cf389dd15efb4154462e42032acdd17df543a2dc9f1a2496f348"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:36 /tmp/tmpuploadfile-1660981017
+{"reference":"c8f96c029dd901615287c8715589732acd3d40abf150fbcfd588484085d3d347"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:37 /tmp/tmpuploadfile-1660981062
+{"reference":"142ad298aae8e6d347c3a95479e8c79327471cd17335b8bb28c8026745a306f0"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:38 /tmp/tmpuploadfile-1660981106
+{"message":"batch is overissued","code":402}
+6
+creating stamp...
+e8ce89812036133b8ccabc95bfebcb9803e95423ffab24ff0695651431edb92f
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:40 /tmp/tmpuploadfile-1660981214
+{"reference":"2fd6aa556f59efe0d6d1ab47d2d1a48f3a879834cc441ff7ab638647ee690c67"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:40 /tmp/tmpuploadfile-1660981252
+{"reference":"84858a34cb21386c4246833b91e4416be2ab884739c72f355d42372d0fb72db3"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:41 /tmp/tmpuploadfile-1660981291
+{"reference":"05b293e5210d594450b46a7b8c039a40773f834e121e69ceaa17154124879a5b"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:42 /tmp/tmpuploadfile-1660981330
+{"reference":"2d37197a4c6a9c2ba968813f94585eb133ab581425adfc4e7dd974573cd00b91"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:42 /tmp/tmpuploadfile-1660981369
+{"reference":"4666c2f1dd3ca0e19cf134a00943acf092d3c39cf450dfb5900ca88bd467bc04"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:43 /tmp/tmpuploadfile-1660981411
+{"message":"batch is overissued","code":402}
+7
+creating stamp...
+db0f3572f45493f8ca6ca1e43a908f7b8f6673283356254e8c96fe5c22ec52b8
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:45 /tmp/tmpuploadfile-1660981529
+{"reference":"019e13d740971f2e098c6e80f6b0cab6d586118a7a2c245910be5605253560a3"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:46 /tmp/tmpuploadfile-1660981568
+{"reference":"b19a930eab31a00e4adee4cc093b20ed1003341cecd7260565eaa3d920124c4d"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:46 /tmp/tmpuploadfile-1660981605
+{"reference":"6cb9eee8b4425096c9e5c941312697c7f141ef7b3d3d61c0233dc3d14579b116"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:47 /tmp/tmpuploadfile-1660981645
+{"reference":"465cebaa9933dfe6343ed5980c686f568adcf37d16183349e8b70eb8267e2a0e"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:48 /tmp/tmpuploadfile-1660981685
+{"message":"batch is overissued","code":402}
+6
+creating stamp...
+30dea467b8e38627ea4cf3d82072776fcb2359c7ee5f4d102e286fb4cd4f77fd
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:49 /tmp/tmpuploadfile-1660981768
+{"reference":"9d9924d6d9664d66accfe31c257416dd2a52ad1d3352cbcc1cc6537f430c403e"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:50 /tmp/tmpuploadfile-1660981811
+{"reference":"7db8a45b736fd370445dbeb0a0482534117d2a59000ba819b2c77d4627641827"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:50 /tmp/tmpuploadfile-1660981856
+{"reference":"5da4023e438d44e5eaf6641d52c08ffbe14cb6ba96ab550b6c1145152f11d8bc"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:51 /tmp/tmpuploadfile-1660981901
+{"reference":"e006fc58174784f88c7c1e6b174da8fbee090776ec066d59038ccf94314afe3b"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:52 /tmp/tmpuploadfile-1660981945
+{"message":"batch is overissued","code":402}
+6
+creating stamp...
+4c224eac11778cb2bf9a4898303a9eb13dc12589dd5b254db028e749787f2e39
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:53 /tmp/tmpuploadfile-1660982009
+{"reference":"2c85cebdea002cad5dbbef5d516573f750c553483f267895b55deaa6a0a5ec73"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:54 /tmp/tmpuploadfile-1660982048
+{"reference":"83564ca671064e3a10d5efa48e4cc51fe67938f043bd45f8e20e6e66fb287ea2"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:54 /tmp/tmpuploadfile-1660982091
+{"reference":"db7c93683d8b65d53a615fd785e477f727dea7a4fed2eca8ac5b0589cbbd3ab7"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:55 /tmp/tmpuploadfile-1660982134
+{"message":"batch is overissued","code":402}
+5
+creating stamp...
+13a53c5ae32342bd65fc64215fec92017302f45bc252c25aea66202ca49f2d74
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:57 /tmp/tmpuploadfile-1660982234
+{"reference":"ac09dda2a57a2e414ca5b11dbca761ad3b7b7e7b12fceee276fdeaea491c686c"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:57 /tmp/tmpuploadfile-1660982271
+{"reference":"ce92f5eecda3ad9b2239a1b900654e032f50978b76a2bfd1c878c50396f924c4"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:58 /tmp/tmpuploadfile-1660982312
+{"reference":"5b75f9a5d4343bc2fecd56fe3d834c316f4da6c1ea51d7d1583d2e7939625220"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 07:59 /tmp/tmpuploadfile-1660982356
+{"reference":"6577d4704446a333b7b93db3c1c9a19eacf7804b6ef6d42dc7af44759e46306b"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:00 /tmp/tmpuploadfile-1660982399
+{"reference":"d6aeef85c21fd6ff2583273dfd3e877c7a9f98de8ce8b531bfb9f0b9f209582e"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:00 /tmp/tmpuploadfile-1660982446
+{"message":"batch is overissued","code":402}
+7
+creating stamp...
+53312e89f7daf55760146acc9b3bb4d6f6c89acda4f86495f089b208795f366e
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:02 /tmp/tmpuploadfile-1660982534
+{"reference":"f00f212df9cb1d1e650dfa056deca62b1325536eaada2d3019625aa781ac4a55"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:02 /tmp/tmpuploadfile-1660982571
+{"reference":"fba712e9e515b7c6a79b0e8111083906c37258867be62c77ab625f013b8802d0"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:03 /tmp/tmpuploadfile-1660982610
+{"reference":"cfe4cd429cc465c2b1d2bfb599eca53665b505e836e0cf95caf15ee607ff5824"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:04 /tmp/tmpuploadfile-1660982650
+{"message":"batch is overissued","code":402}
+5
+creating stamp...
+80e2a89206345f5da35a49f7c8ce2f8d98e545ea59312fac5c0a4d820727ab9f
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:06 /tmp/tmpuploadfile-1660982774
+{"reference":"23cd9fe62df27b1cd396cb799773f7ede812de8abdeca9741bf153a96ff2cecf"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:06 /tmp/tmpuploadfile-1660982809
+{"reference":"6b4cef44fc433979598bf6aed7331ccb06db85e26c6f1d5877eb41a27f3f1a75"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:07 /tmp/tmpuploadfile-1660982849
+{"reference":"c418eb2036df31e512bdfaf742ccf5bae142119e46111447808edb42b4867cf7"}
+-rw-rw-r-- 1 sig sig 33554431 Aug 20 08:08 /tmp/tmpuploadfile-1660982891
+{"message":"batch is overissued","code":402}
+5
